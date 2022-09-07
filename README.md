@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <img width="100%" alt="Developer Illustration" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1"/>
 <br />
 <br />
@@ -73,7 +73,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br />
 <p align="center">
   <a href="https://github.com/nasratnejat/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nasratnejat&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nasratnejat&show_icons=true&theme=dark&hide_border=true&icon_color=02f200" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nasratnejat&theme=dark&hide_border=true" />
   </a>
 </p>
@@ -83,18 +83,18 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <p>
 </div> 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=02f200">
+  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=02f200">
+  <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=02f200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=02f200">
+  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=02f200">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=02f200">
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=02f200">
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=02f200">
 </p>
 
 <br/>
 
-[![nasratnejat Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nasratnejat&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://github.com/nasratnejat/)
+[![nasratnejat Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nasratnejat&hide_border=true&bg_color=151515&color=fff&line=02f200&point=f28a00)](https://github.com/nasratnejat/)
