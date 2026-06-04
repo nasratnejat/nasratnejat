@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasratnejat" alt="nasratnejat" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/nasrat__nejat" target="blank"><img src="https://img.shields.io/twitter/follow/nasrat__nejat?logo=twitter&style=for-the-badge" alt="nasrat__nejat" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/nasrat__nejat" target="blank"><img src="https://img.shields.io/twitter/follow/nasrat__nejat?logo=twitter&style=for-the-badge" alt="nasrat__nejat" /></a> </p> -->
 
  🌱 I’m currently learning **MERN-Stack**
 
