@@ -1,282 +1,262 @@
 <div align="center">
 
-<!-- ========================================================= -->
-
-<!--                    TERMINAL BOOT                         -->
-
-<!-- ========================================================= -->
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=600&color=00FF88&background=050505&center=true&vCenter=true&width=900&height=100&lines=%5B%2B%5D+Booting+nasrat%40kali...;%5B%2B%5D+Loading+developer+modules...;%5B%2B%5D+Connecting+to+GitHub...;%5BOK%5D+System+ready.;nasrat%40kali%3A~%24+./profile.sh"
-alt="Terminal Boot"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:071a1f,100:00e5ff&text=NASRAT%20NEJAT&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DIGITAL%20BUILDER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  ●  ●  ●                         nasrat@kali — ~/github-profile              │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  ┌──(nasrat㉿kali)-[~/profile]                                               │
-│  └─$ ./initialize.sh                                                        │
-│                                                                              │
-│  [+] Starting developer environment...                              DONE    │
-│  [+] Loading modules...                                              DONE    │
-│  [+] Connecting to GitHub...                                         DONE    │
-│  [+] Loading coffee dependency...                                    DONE    │
-│                                                                              │
-│  [ SYSTEM STATUS ]                                                          │
-│                                                                              │
-│  OS          :: KALI / LINUX STYLE TERMINAL                                 │
-│  USER        :: NASRAT                                                       │
-│  ROLE        :: FULL-STACK DEVELOPER                                        │
-│  STATUS      :: ● ONLINE                                                     │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1600&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=nasrat%40kali%3A~%24+whoami;nasrat;nasrat%40kali%3A~%24+cat+%2Fetc%2Fprofile"
-alt="Terminal Commands"
-/>
-
-```text
-┌──(nasrat㉿kali)-[~/profile]
-└─$ cat /etc/profile
-
-NAME        : Nasrat Nejat
-ROLE        : Full-Stack Developer
-SPECIALTY   : Modern Web Applications
-MINDSET     : Learn → Build → Break → Fix → Ship
-LOCATION    : Germany 🇩🇪
-STATUS      : ● ONLINE
-
-DESCRIPTION
-───────────────────────────────────────────────────────────────────────────────
-
-Self-taught developer passionate about building modern,
-beautiful and useful web applications.
-
-I enjoy turning ideas into real products through code,
-design and continuous learning.
-
-[+] JavaScript enthusiast
-[+] React developer
-[+] Full-stack builder
-[+] UI / UX explorer
-[+] Always learning
-
-[OK] Profile loaded.
-```
-
-<br/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1400&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=nasrat%40kali%3A~%24+ls+-la+.%2Fskills;Loading+skill+modules..."
-alt="Skills"
-/>
-
-```text
-┌──(nasrat㉿kali)-[~/profile]
-└─$ ls -la ./skills
-
-drwxr-xr-x  javascript
-drwxr-xr-x  typescript
-drwxr-xr-x  react
-drwxr-xr-x  nextjs
-drwxr-xr-x  nodejs
-drwxr-xr-x  express
-drwxr-xr-x  mongodb
-drwxr-xr-x  mysql
-drwxr-xr-x  tailwind
-drwxr-xr-x  git
-drwxr-xr-x  github
-drwxr-xr-x  linux
-drwxr-xr-x  azure
-drwxr-xr-x  figma
-
-[+] Skill modules loaded.
-```
-
-<div align="center">
-
-<img
-src="https://skillicons.dev/icons?i=linux,git,github,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,azure,figma&perline=7&theme=dark"
-alt="Technology Stack"
-/>
-
-</div>
-
-<br/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=nasrat%40kali%3A~%24+ps+aux+%7C+grep+learning;Scanning+active+processes..."
-alt="Learning Processes"
-/>
-
-```text
-┌──(nasrat㉿kali)-[~/profile]
-└─$ ps aux | grep learning
-
-USER      PID     PROCESS                    STATUS
-nasrat    1337    JavaScript                 RUNNING
-nasrat    1338    React                      RUNNING
-nasrat    1339    Node.js                    RUNNING
-nasrat    1340    MERN Stack                 RUNNING
-nasrat    1341    System Architecture       LEARNING
-nasrat    1342    UI / UX                    LEARNING
-
-[+] Active learning processes: 6
-[+] Developer mode: ENABLED
-```
-
-<br/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=nasrat%40kali%3A~%24+github+--scan;Scanning+repositories...;Analyzing+contributions...;Building+activity+matrix..."
-alt="GitHub Scan"
-/>
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=nasratnejat&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"
-width="100%"
-alt="GitHub Activity"
-/>
-
-</div>
-
-```text
-[+] Repository scan complete.
-[+] Contribution matrix loaded.
-[+] GitHub activity detected.
-[OK] GitHub subsystem operational.
-```
-
-<br/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=nasrat%40kali%3A~%24+github+--stats;Fetching+developer+statistics..."
-alt="GitHub Statistics"
-/>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=nasratnejat&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=cccccc&count_private=true"
-width="49%"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasratnejat&layout=compact&hide_border=true&bg_color=050505&title_color=00ff88&text_color=cccccc"
-width="49%"
-alt="Top Languages"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+beautiful+things+with+code.;Self-taught+developer+%7C+MERN+Stack.;Turning+ideas+into+real+products.;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB.;Welcome+to+my+digital+workspace+%F0%9F%9A%80" />
 
 <br/><br/>
 
-<img
-src="https://streak-stats.demolab.com?user=nasratnejat&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=cccccc&dates=777777"
-width="65%"
-alt="GitHub Streak"
-/>
+<a href="https://github.com/nasratnejat">
+<img src="https://komarev.com/ghpvc/?username=nasratnejat&label=PROFILE%20VISITORS&color=00e5ff&style=for-the-badge" />
+</a>
+
+<a href="mailto:nasratnejat03@gmail.com">
+<img src="https://img.shields.io/badge/AVAILABLE_FOR_WORK-00e5ff?style=for-the-badge&logo=minutemailer&logoColor=000000" />
+</a>
 
 </div>
 
+---
+
+<div align="center">
+
 ```text
-[+] GitHub statistics loaded.
-[+] Language analysis loaded.
-[+] Contribution streak loaded.
-[OK] Analytics complete.
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   SYSTEM BOOT                                                  ║
+║   ──────────────────────────────────────────────────────────    ║
+║                                                                  ║
+║   USER        : NASRAT NEJAT                                   ║
+║   ROLE        : FULL-STACK DEVELOPER                           ║
+║   SPECIALITY  : WEB APPLICATIONS                               ║
+║   CURRENTLY   : LEARNING MERN STACK                            ║
+║   STATUS      : ● ONLINE                                       ║
+║   MISSION     : BUILD SOMETHING AMAZING                        ║
+║                                                                  ║
+║   > INITIALIZING CREATIVITY..................... [██████████]   ║
+║   > LOADING CODE................................ [██████████]   ║
+║   > DEPLOYING IDEAS............................. [██████████]   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+# `01` — WHO AM I?
+
+<img align="right" width="320" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/>
+
+### 👋 Hey, I'm Nasrat.
+
+I'm a **self-taught full-stack web developer** passionate about turning ideas into **beautiful, functional and high-quality web applications**.
+
+I enjoy exploring the intersection of:
+
+* ⚡ **Modern Web Development**
+* 🎨 **UI / UX**
+* 🧠 **Problem Solving**
+* 🚀 **Product Development**
+* 🌐 **Open Source**
+* 📱 **Responsive Experiences**
+
+I'm currently going deeper into the **MERN Stack** and constantly experimenting with new technologies.
+
+<br clear="right"/>
+
+---
+
+# `02` — CURRENTLY BUILDING
+
+<div align="center">
+
+|     🧠 LEARNING     |    ⚡ BUILDING   |       🔭 EXPLORING       |
+| :-----------------: | :-------------: | :----------------------: |
+|      MERN Stack     | Full-Stack Apps |     New Technologies     |
+| Advanced JavaScript |    Modern UIs   |    Better Architecture   |
+|   React Ecosystem   | APIs & Services | Creative Web Experiences |
+
+</div>
 
 <br/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=nasrat%40kali%3A~%24+.%2Fmission.sh;Loading+current+mission..."
-alt="Mission"
-/>
+```javascript
+const nasrat = {
+    role: "Full-Stack Developer",
+    mindset: "Always Learning",
+    currentlyLearning: "MERN Stack",
+
+    askMeAbout: [
+        "JavaScript",
+        "React",
+        "Web Development"
+    ],
+
+    goal: "Create useful things that people love to use."
+};
+```
+
+---
+
+# `03` — TECHNOLOGY MATRIX
+
+<div align="center">
+
+### ⚡ FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,tailwind,bootstrap" />
+
+### 🧠 BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+### 🛠️ LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
+
+### ☁️ TOOLS & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,azure,heroku,figma" />
+
+### 🎨 CREATIVE TOOLS
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+
+</div>
+
+---
+
+# `04` — THE STACK
 
 ```text
-┌──(nasrat㉿kali)-[~/mission]
-└─$ ./mission.sh
-
-MISSION
-───────────────────────────────────────────────────────────────────────────────
-
-Build better software.
-
-Learn new technologies.
-
-Create useful experiences.
-
-Write clean and maintainable code.
-
-Ship projects.
-
-Improve continuously.
-
-
-CURRENT FOCUS
-───────────────────────────────────────────────────────────────────────────────
-
-[+] MERN Stack
-[+] Advanced JavaScript
-[+] React
-[+] Node.js
-[+] Modern Web Architecture
-[+] UI / UX
-
-
-PROGRESS
-───────────────────────────────────────────────────────────────────────────────
-
-████████████████████████████░░░░░░░░░░░░░░░░
-
-STATUS :: IN PROGRESS
+                         NASRAT'S STACK
+                              │
+             ┌────────────────┴────────────────┐
+             │                                 │
+        FRONTEND                          BACKEND
+             │                                 │
+     ┌───────┼────────┐                 ┌──────┼───────┐
+     │       │        │                 │      │       │
+   React   Next.js  Redux            Node.js Express  APIs
+     │       │        │                 │      │
+     └───────┼────────┘                 └──────┼───────┘
+             │                                 │
+             └──────────────┬──────────────────┘
+                            │
+                       DATA LAYER
+                            │
+                   ┌────────┴────────┐
+                   │                 │
+                MongoDB            MySQL
+                   │
+                   └────────┐
+                            │
+                       DEPLOYMENT
+                            │
+                    Azure / Heroku
 ```
+
+---
+
+# `05` — WHAT I LIKE TO BUILD
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+## 🌐 WEB APPS
+
+Modern, responsive and scalable web applications with great user experiences.
+
+</td>
+
+<td width="50%" align="center">
+
+## ⚡ FULL-STACK SYSTEMS
+
+Complete applications connecting beautiful interfaces with powerful backends.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+## 🎨 DIGITAL EXPERIENCES
+
+Interfaces where design and engineering work together.
+
+</td>
+
+<td width="50%" align="center">
+
+## 🧪 EXPERIMENTAL PROJECTS
+
+Trying new technologies, ideas and unconventional approaches.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# `06` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nasratnejat&show_icons=true&hide_border=true&bg_color=00000000&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&ring_color=00e5ff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasratnejat&layout=compact&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=ffffff" />
+
+</div>
 
 <br/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=nasrat%40kali%3A~%24+cat+.%2Fconnect;Searching+communication+channels..."
-alt="Connect"
-/>
+<div align="center">
 
-```text
-┌──(nasrat㉿kali)-[~/connect]
-└─$ cat ./socials
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nasratnejat&hide_border=true&background=00000000&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=ffffff&dates=888888" />
 
-[+] GitHub       → github.com/nasratnejat
-[+] LinkedIn     → linkedin.com/in/nasrat-nejat
-[+] X            → twitter.com/nasrat__nejat
-[+] Instagram    → instagram.com/nasrat_nejat
-[+] Email        → nasratnejat03@gmail.com
+</div>
 
-[OK] Communication channels available.
-```
+---
+
+# `07` — CONTRIBUTION SIGNAL
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nasratnejat/nasratnejat/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+# `08` — CONNECT WITH ME
 
 <div align="center">
 
 <a href="mailto:nasratnejat03@gmail.com">
-<img src="https://img.shields.io/badge/%5B%20EMAIL%20%5D-050505?style=for-the-badge&logo=gmail&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 <a href="https://linkedin.com/in/nasrat-nejat">
-<img src="https://img.shields.io/badge/%5B%20LINKEDIN%20%5D-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
 <a href="https://twitter.com/nasrat__nejat">
-<img src="https://img.shields.io/badge/%5B%20X%20%5D-050505?style=for-the-badge&logo=x&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/TWITTER-00E5FF?style=for-the-badge&logo=x&logoColor=black" />
 </a>
 
 <a href="https://instagram.com/nasrat_nejat">
-<img src="https://img.shields.io/badge/%5B%20INSTAGRAM%20%5D-050505?style=for-the-badge&logo=instagram&logoColor=00ff88"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-00E5FF?style=for-the-badge&logo=instagram&logoColor=black" />
+</a>
+
+<a href="https://fb.com/nasrat.nejat.1">
+<img src="https://img.shields.io/badge/FACEBOOK-00E5FF?style=for-the-badge&logo=facebook&logoColor=black" />
 </a>
 
 </div>
@@ -285,34 +265,20 @@ alt="Connect"
 
 <div align="center">
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1700&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=nasrat%40kali%3A~%24+exit;Closing+developer+session...;%5BOK%5D+Session+terminated.;Thanks+for+visiting+%F0%9F%91%8B;See+you+in+the+next+commit."
-alt="Terminal Exit"
-/>
-
-<br/><br/>
-
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   nasrat@kali:~$ exit                                                       ║
-║                                                                              ║
-║   [OK] Session terminated.                                                  ║
-║                                                                              ║
-║   Keep learning.                                                            ║
-║   Keep building.                                                            ║
-║   Keep shipping. 🚀                                                         ║
-║                                                                              ║
-║   nasrat@kali:~$ █                                                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│                  KEEP BUILDING.                            │
+│                  KEEP LEARNING.                            │
+│                  KEEP CREATING.                            │
+│                                                            │
+│             THE BEST CODE IS YET TO COME.                 │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
-<br/>
+### `> CONNECTION TERMINATED... FOR NOW.`
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003b2f,100:050505&height=100&section=footer&animation=twinkling"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00e5ff,50:071a1f,100:050505" width="100%"/>
 
 </div>
