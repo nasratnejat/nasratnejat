@@ -1,43 +1,232 @@
- <div align="center">
-<img width="100%" alt="Developer Illustration" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1"/>
-<br />
-<br />
-<h1 align="center">Hi 👋, I'm Nasrat Nejat</h1>
-<h3 align="center">A self-taught full stack web developer. Passionate about creating top-notch and stunning web apps.</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nasratnejat&label=Profile%20views&color=0e75b6&style=flat" alt="nasratnejat" /> </p>
+# 👋 Hey, I'm **Nasrat Nejat**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasratnejat" alt="nasratnejat" /></a> </p>
+### Full-Stack Developer · JavaScript Enthusiast · Problem Solver
 
-<!-- <p align="center"> <a href="https://twitter.com/nasrat__nejat" target="blank"><img src="https://img.shields.io/twitter/follow/nasrat__nejat?logo=twitter&style=for-the-badge" alt="nasrat__nejat" /></a> </p> -->
-
- 🌱 I’m currently learning **MERN-Stack**
-
- 💬 Ask me about **javascript, react,**
-
- 📫 How to reach me **nasratnejat03@gmail.com**
-<br />
-<br />
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/nasrat__nejat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasrat__nejat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nasrat-nejat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasrat-nejat" height="30" width="40" /></a>
-<a href="https://fb.com/nasrat.nejat.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nasrat.nejat.1" height="30" width="40" /></a>
-<a href="https://instagram.com/nasrat_nejat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasrat_nejat" height="30" width="40" /></a>
+<p>
+  <em>
+    I build modern, scalable, and beautiful web applications<br/>
+    with a focus on great user experiences and clean code.
+  </em>
 </p>
-<br />
-<br />
-<h3 align="center">Languages and Tools:</h3>
-<p align=" center" width"40"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
- <br />
-<br />
- <br />
-<br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasratnejat&show_icons=true&locale=en&layout=compact" alt="nasratnejat" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasratnejat&show_icons=true&locale=en" alt="nasratnejat" /></p>
+<a href="https://github.com/nasratnejat">
+  <img src="https://komarev.com/ghpvc/?username=nasratnejat&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasratnejat&" alt="nasratnejat" /></p>
+<a href="https://github.com/nasratnejat?tab=followers">
+  <img src="https://img.shields.io/github/followers/nasratnejat?label=Followers&style=for-the-badge&color=2563EB" alt="GitHub Followers"/>
+</a>
 
+<a href="https://github.com/nasratnejat">
+  <img src="https://img.shields.io/github/stars/nasratnejat?label=Stars&style=for-the-badge&color=F59E0B" alt="GitHub Stars"/>
+</a>
 
+<br/>
+<br/>
+
+<a href="https://twitter.com/nasrat__nejat">
+  <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/nasrat-nejat">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nasratnejat03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/nasrat_nejat">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const nasrat = {
+  name: "Nasrat Nejat",
+  role: "Full-Stack Developer",
+  location: "Germany 🇩🇪",
+
+  currentlyLearning: [
+    "MERN Stack",
+    "Advanced JavaScript",
+    "Modern Web Architecture"
+  ],
+
+  askMeAbout: [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Web Development"
+  ],
+
+  philosophy:
+    "Build things that are useful, beautiful, and easy to maintain."
+};
+```
+
+I'm a **self-taught full-stack developer** who enjoys turning ideas into real products.
+
+I love working across the entire development process — from designing interfaces and writing frontend logic to building APIs, databases, authentication systems, and deploying applications.
+
+🌱 Currently deepening my knowledge of the **MERN stack**
+⚡ Passionate about **JavaScript & React**
+🎨 Interested in **UI/UX and modern web design**
+🧠 Always learning something new
+💻 Building, breaking, fixing, and building again
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,azure,heroku,figma" />
+</p>
+
+### 🎨 Creative Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=ps,ai" />
+</p>
+
+---
+
+## 🔥 What I Like Building
+
+<div align="center">
+
+|      🧩 Area      | 💡 What I Enjoy                                |
+| :---------------: | :--------------------------------------------- |
+|  🌐 **Web Apps**  | Modern, responsive and scalable applications   |
+|    ⚛️ **React**   | Interactive interfaces and reusable components |
+|    🔌 **APIs**    | Clean and reliable backend services            |
+| 🗄️ **Databases** | Designing practical data structures            |
+|    🎨 **UI/UX**   | Interfaces that feel as good as they look      |
+| 🚀 **Full Stack** | Taking an idea from concept → production       |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nasratnejat&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasratnejat&layout=compact&hide_border=true&theme=tokyonight" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=nasratnejat&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasratnejat&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+<div align="center">
+
+```text
+JavaScript      ████████████████████░  95%
+React           ███████████████████░░  90%
+Node.js         █████████████████░░░░  85%
+MongoDB         ████████████████░░░░░  80%
+TypeScript      ███████████████░░░░░░  75%
+Next.js         ██████████████░░░░░░░  70%
+```
+
+</div>
+
+> The percentages above are intentionally informal — they represent areas I'm focusing on, not formal proficiency scores.
+
+---
+
+## 💡 Developer Mindset
+
+<div align="center">
+
+### **Learn → Build → Break → Fix → Improve → Repeat**
+
+<br/>
+
+> *"The best way to learn development is to build things that are slightly beyond your current abilities."*
+
+</div>
+
+---
+
+## 🌎 Let's Connect
+
+<div align="center">
+
+If you're interested in **web development, technology, open source, or building cool things**, let's connect.
+
+<br/>
+
+<a href="mailto:nasratnejat03@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/nasrat-nejat">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ⚡ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
